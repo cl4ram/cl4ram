@@ -1,6 +1,6 @@
 ![github](https://user-images.githubusercontent.com/77849498/129462604-8a0911f2-29b6-45ba-a57a-d35d81d20794.png)
 
-                                                         🎀 Hi, I’m Clari 🎀
+🎀 Hi, I’m Clari 🎀
                                 
 ```javascript 
 const about = {from: "Argentina", 
@@ -16,7 +16,7 @@ const social = {linkedin: "https://www.linkedin.com/in/mariaclara-molinayvedia/"
  
 
 if (you-want-to = contact-me){
-                              document.write ("molinayvediaclara@outlook.com")
+      document.write ("molinayvediaclara@outlook.com")
 }else {
       document.write ("so sad :(")
 }
