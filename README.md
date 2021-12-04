@@ -1,4 +1,5 @@
-![github](https://user-images.githubusercontent.com/77849498/129462604-8a0911f2-29b6-45ba-a57a-d35d81d20794.png)
+![prueba2](https://user-images.githubusercontent.com/77849498/144727595-1ea00dab-2991-4b0e-b738-99abf1b4e8c8.png)
+
 
 🎀 Hi, I’m Clari 🎀
                                 
