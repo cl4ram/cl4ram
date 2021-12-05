@@ -13,8 +13,9 @@ const about = {from: "Argentina",
 const skills = { "HTML", "CSS", "Sass", "JavaScript", "AJAX", "JSON"};               
                
 const social = {linkedin: "https://www.linkedin.com/in/mariaclara-molinayvedia/",
-                instagram: "https://www.instagram.com/clari.myv/",
-                pinterest: "https://www.pinterest.ca/claru17_2000/_saved/"}
+                behance: "https://www.behance.net/claramolina3",
+                instagram: "https://www.instagram.com/clari.myv/"
+                }
  
 
 if (you-want-to = contact-me){
