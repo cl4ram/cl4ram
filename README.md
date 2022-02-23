@@ -10,7 +10,7 @@ const about = {from: "Argentina",
                fav-color: "yellow",
                pets: "cat"};
                
-const skills = { "HTML", "CSS", "Sass", "JavaScript", "AJAX", "JSON"};               
+const skills = { "HTML", "CSS", "Sass", "JavaScript"};               
                
 const social = {linkedin: "https://www.linkedin.com/in/mariaclara-molinayvedia/",
                 behance: "https://www.behance.net/claramolina3",
