@@ -2,26 +2,27 @@
 ![prueba2](https://user-images.githubusercontent.com/77849498/144727617-140024fb-5220-41f1-bbb7-263fdd244bb3.png)
 
 
-🎀 Hi, I’m Clari 🎀
+🎀 Hello, I’m Clara 🎀
                                 
 ```javascript 
 const about = {from: "Argentina", 
                birthday: "17/09/2000",
                fav-color: "yellow",
-               pets: "cat"};
+               pets: "cat",
+              };
                
-const skills = { "HTML", "CSS", "Sass", "JavaScript"};               
+const skills = ["HTML", "CSS", "Sass", "JavaScript"];               
                
 const social = {linkedin: "https://www.linkedin.com/in/mariaclara-molinayvedia/",
                 behance: "https://www.behance.net/claramolina3",
-                instagram: "https://www.instagram.com/clari.myv/"
-                }
+                instagram: "https://www.instagram.com/clari.myv/",
+                };
  
 
-if (you-want-to = contact-me){
-      document.write ("molinayvediaclara@outlook.com")
+if (youWantTo === contactMe){
+      console.log("molinayvediaclara@outlook.com")
 }else {
-      document.write ("so sad :(")
+      console.log("so sad :(")
 }
 ```              
 <!---
